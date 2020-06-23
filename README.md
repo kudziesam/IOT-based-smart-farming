@@ -1,2 +1,4 @@
 # IOT-based-smart-farming
-Smart farming is a management concept focused on providing the agricultural industry with the infrastructure to leverage advanced technology with the use of the internet of things (IoT) – for tracking, monitoring, automating and analysing operations. Also known as precision farming, smart farming is software-managed and sensor-monitored. 
+1. sign up as a farmer on the signup.hmtl page
+2. then login in on the login.hmtl page
+3. now that you are loggged in you can view your data
